@@ -8,7 +8,7 @@ import About from "./container/About/About";
 
 const App = () => (
   <div className="app">
-    {/* <Navbar /> */}
+    <Navbar />
     {/* <Header /> */}
     {/* <About /> */}
     {/* <Work /> */}
