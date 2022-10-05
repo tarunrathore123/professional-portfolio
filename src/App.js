@@ -8,8 +8,8 @@ import About from "./container/About/About";
 
 const App = () => (
   <div className="app">
-    <Navbar />
-    <Header />
+    {/* <Navbar /> */}
+    {/* <Header /> */}
     {/* <About /> */}
     {/* <Work /> */}
     {/* <Skills /> */}
