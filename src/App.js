@@ -9,6 +9,7 @@ import About from "./container/About/About";
 const App = () => (
   <div className="app">
     <Navbar />
+
     <Header />
     <About />
     {/* <Work /> */}
